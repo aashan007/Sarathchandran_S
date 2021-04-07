@@ -1,4 +1,4 @@
 # Sarathchandran S
 
 - Software Engineer
-- Web Developer
+- Interest : Full Stack Development( NodeJS,React etc), Machine Learning (Python) and Leetcoding 
