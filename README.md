@@ -1,4 +1,4 @@
 # Sarathchandran S
 
-Software Engineer
-Web Developer
+- Software Engineer
+- Web Developer
